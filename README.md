@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="assets/app-icon/hicolor/256x256/apps/ai.storyteller.texturecraft.png" width="128" height="128" alt="TextureCraft icon: an engraved zebra on a copper tile">
+  <img src="assets/app-icon/hicolor/256x256/apps/ai.storyteller.texturecraft.png" width="128" height="128" alt="TextureCraft icon: solid Terracotta tile with TC initials">
 </p>
 
 <h1 align="center">TextureCraft</h1>
